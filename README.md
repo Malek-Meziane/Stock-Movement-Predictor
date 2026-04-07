@@ -4,7 +4,7 @@ A machine learning project that predicts significant Apple stock
 price movements using technical indicators, with SHAP explainability.
 
 ## Demo
-![Demo](demo.gif)
+![Demo](stock-movement-predictor.gif)
 
 ## Results
 
