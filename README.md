@@ -1,7 +1,8 @@
 # Stock Movement Predictor
 
-A machine learning project that predicts significant Apple stock 
-price movements using technical indicators, with SHAP explainability.
+A machine learning project that predicts significant stock price 
+movements using technical indicators and XGBoost, with SHAP 
+explainability. Works with any stock — AAPL, TSLA, MSFT, MC.PA and more.
 
 ## Demo
 ![Demo](stock-movement-predictor.gif)
